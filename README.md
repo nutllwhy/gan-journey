@@ -21,7 +21,7 @@ GAN数学公式细解：[生成对抗网络GAN的数学公式的前因后果](ht
 在经历了2014和2015两年的酝酿，在2015年下半年和2016年上半年，GAN领域相关研究出现了爆炸性的增长。
 一篇承上启下的GAN主要变种简介：[DCGAN、WGAN、WGAN-GP、LSGAN、BEGAN原理总结及对比](https://blog.csdn.net/qq_25737169/article/details/78857788)
 
-###DCGAN
+### DCGAN
 这是我最早接触的一个GAN变种
 > DCGAN是继GAN之后比较好的改进，其主要的改进主要是在网络结构上
 
@@ -31,14 +31,14 @@ github:[DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
 在线Demo：[NEURAL FACE](https://carpedm20.github.io/faces/)
 
-###WGAN
+### WGAN
 > 与DCGAN不同，WGAN主要从损失函数的角度对GAN做了改进
 
 论文：[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
 
 github:[tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 
-###WGAN-GP
+### WGAN-GP
 > WGAN-GP是WGAN之后的改进版，主要改进了连续性限制的条件，作者发现将权重剪切到一定范围之后，比如剪切到[-0.01,+0.01]后，发生了这样的情况，如下左图所示。
 ![](http://pci87zelt.bkt.clouddn.com/FjOmi2PW9VwdRrKOVHdZgZ6kXyhF)
 
