@@ -51,7 +51,7 @@ github:[wgan-gp](https://github.com/caogang/wgan-gp)
 
 ## GAN应用
 ### CV
-图像降噪相关：
+**图像降噪：**
 
 最早搜到的一个GAN降噪实验：[ImageDenoisingGAN](https://github.com/manumathewthomas/ImageDenoisingGAN)
 
