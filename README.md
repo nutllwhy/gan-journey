@@ -31,6 +31,8 @@ github:[DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
 在线Demo：[NEURAL FACE](https://carpedm20.github.io/faces/)
 
+DCGAN快速上手Demo，亲测可行——二次元萌妹头像生成：[GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
+
 ### WGAN
 > 与DCGAN不同，WGAN主要从损失函数的角度对GAN做了改进
 
@@ -50,6 +52,7 @@ github:[wgan-gp](https://github.com/caogang/wgan-gp)
 ## GAN应用
 ### CV
 图像降噪相关：
+
 最早搜到的一个GAN降噪实验：[ImageDenoisingGAN](https://github.com/manumathewthomas/ImageDenoisingGAN)
 
 DCGAN降噪：[DCGANs for image super-resolution, denoising and debluring](http://web.stanford.edu/class/ee367/Winter2017/yan_wang_ee367_win17_report.pdf)
