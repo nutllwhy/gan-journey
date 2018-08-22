@@ -15,10 +15,49 @@ GAN于2014年提出，
 
 GAN数学公式细解：[生成对抗网络GAN的数学公式的前因后果](https://blog.csdn.net/liuweizj12/article/details/73741434)
 
+***
 
 ## GAN变种
+在经历了2014和2015两年的酝酿，在2015年下半年和2016年上半年，GAN领域相关研究出现了爆炸性的增长。
+一篇承上启下的GAN主要变种简介：[DCGAN、WGAN、WGAN-GP、LSGAN、BEGAN原理总结及对比](https://blog.csdn.net/qq_25737169/article/details/78857788)
 
+###DCGAN
+这是我最早接触的一个GAN变种
+> DCGAN是继GAN之后比较好的改进，其主要的改进主要是在网络结构上
+
+论文：[Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/abs/1511.06434)
+
+github:[DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
+
+在线Demo：[NEURAL FACE](https://carpedm20.github.io/faces/)
+
+###WGAN
+> 与DCGAN不同，WGAN主要从损失函数的角度对GAN做了改进
+
+论文：[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
+
+github:[tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+
+###WGAN-GP
+> WGAN-GP是WGAN之后的改进版，主要改进了连续性限制的条件，作者发现将权重剪切到一定范围之后，比如剪切到[-0.01,+0.01]后，发生了这样的情况，如下左图所示。
+![](http://pci87zelt.bkt.clouddn.com/FjOmi2PW9VwdRrKOVHdZgZ6kXyhF)
+
+论文：[Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf)
+
+github:[wgan-gp](https://github.com/caogang/wgan-gp)
+***
 
 ## GAN应用
 ### CV
+图像降噪相关：
+最早搜到的一个GAN降噪实验：[ImageDenoisingGAN](https://github.com/manumathewthomas/ImageDenoisingGAN)
+
+DCGAN降噪：[DCGANs for image super-resolution, denoising and debluring](http://web.stanford.edu/class/ee367/Winter2017/yan_wang_ee367_win17_report.pdf)
+
+去雨（和去噪同理）：[Image De-raining Using a Conditional Generative Adversarial Network](https://arxiv.org/abs/1701.05957)
+
 ### NLP
+GAN在NLP方向摸索：[记录一次与大神们的关于GAN应用于NLP的讨论](https://www.jianshu.com/p/32e164883eab)
+
+***
+持续更新中
