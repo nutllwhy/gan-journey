@@ -8,7 +8,7 @@
 同时，欢迎大家补充，分享优质学习资料。
 ***
 ## GAN原理
-GAN于2014年提出，
+GAN于2014年由Ian Goodfellow提出，
 论文：[Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets) 
 
 一篇可读性&趣味性并重的GAN简介，想简单了解一下GAN的可以直接看这里：[GAN系列学习(1)——前生今世](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247484964&idx=1&sn=a859222f408a991dbade1909917595ae&chksm=f9d158bccea6d1aa5a7afb17d39c704d719a7b47613250bff50928343fe49a63a72c27e7bab0&scene=21#wechat_redirect)
@@ -19,7 +19,6 @@ GAN数学公式细解：[生成对抗网络GAN的数学公式的前因后果](ht
 
 ## GAN变种
 在经历了2014和2015两年的酝酿，在2015年下半年和2016年上半年，GAN领域相关研究出现了爆炸性的增长。
-
 一篇承上启下的GAN主要变种简介：[DCGAN、WGAN、WGAN-GP、LSGAN、BEGAN原理总结及对比](https://blog.csdn.net/qq_25737169/article/details/78857788)
 
 ### DCGAN
@@ -64,4 +63,9 @@ DCGAN降噪：[DCGANs for image super-resolution, denoising and debluring](http:
 GAN在NLP方向摸索：[记录一次与大神们的关于GAN应用于NLP的讨论](https://www.jianshu.com/p/32e164883eab)
 
 ***
-持续更新中
+## 模型优化
+各类主流激活函数简介：[ReLU、LReLU、PReLU、CReLU、ELU、SELU](https://blog.csdn.net/qq_20909377/article/details/79133981)
+
+Andrew Ng新作,教你如何构建机器学习项目(翻译优化中)：[「Machine Learning Yearning」中文版](https://accepteddoge.github.io/machine-learning-yearning-cn/)
+***
+持续更新...
