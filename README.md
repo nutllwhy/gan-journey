@@ -19,6 +19,7 @@ GAN数学公式细解：[生成对抗网络GAN的数学公式的前因后果](ht
 
 ## GAN变种
 在经历了2014和2015两年的酝酿，在2015年下半年和2016年上半年，GAN领域相关研究出现了爆炸性的增长。
+
 一篇承上启下的GAN主要变种简介：[DCGAN、WGAN、WGAN-GP、LSGAN、BEGAN原理总结及对比](https://blog.csdn.net/qq_25737169/article/details/78857788)
 
 ### DCGAN
