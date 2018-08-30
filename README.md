@@ -68,5 +68,7 @@ GAN在NLP方向摸索：[记录一次与大神们的关于GAN应用于NLP的讨�
 各类主流激活函数简介：[ReLU、LReLU、PReLU、CReLU、ELU、SELU](https://blog.csdn.net/qq_20909377/article/details/79133981)
 
 Andrew Ng新作,教你如何构建机器学习项目(翻译优化中)：[「Machine Learning Yearning」中文版](https://accepteddoge.github.io/machine-learning-yearning-cn/)
+
+详解 1x1 Convolution（是英文材料，但是很好懂，配图很直观）：[One by One [ 1 x 1 ] Convolution - counter-intuitively useful](https://iamaaditya.github.io/2016/03/one-by-one-convolution/)
 ***
 持续更新...
