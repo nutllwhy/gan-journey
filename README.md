@@ -61,7 +61,12 @@ DCGAN降噪：[DCGANs for image super-resolution, denoising and debluring](http:
 去雨（和去噪同理）：[Image De-raining Using a Conditional Generative Adversarial Network](https://arxiv.org/abs/1701.05957)
 
 ### NLP
-GAN在NLP方向摸索：[记录一次与大神们的关于GAN应用于NLP的讨论](https://www.jianshu.com/p/32e164883eab)
+GAN在NLP方向摸索：
+[记录一次与大神们的关于GAN应用于NLP的讨论](https://www.jianshu.com/p/32e164883eab)
+
+LeakGAN:
+[如何让对抗网络GAN生成更高质量的文本？LeakGAN现身说法：“对抗中，你可能需要一个间谍！”](https://www.leiphone.com/news/201709/QRJPQr3jCOtY7ncQ.html)
+对应论文：[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf)
 
 ***
 ## 模型优化
