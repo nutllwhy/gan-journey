@@ -66,6 +66,7 @@ GAN在NLP方向摸索：
 
 LeakGAN:
 [如何让对抗网络GAN生成更高质量的文本？LeakGAN现身说法：“对抗中，你可能需要一个间谍！”](https://www.leiphone.com/news/201709/QRJPQr3jCOtY7ncQ.html)
+
 对应论文：[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf)
 
 ***
