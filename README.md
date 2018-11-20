@@ -69,6 +69,13 @@ LeakGAN:
 
 对应论文：[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf)
 
+目前在中国诗词数据集上取得最好结果的论文：
+[自然语言对抗生成：Adversarial Generation of Natural Language](https://arxiv.org/pdf/1705.10929.pdf)
+
+中文报道：[【GAN X NLP】自然语言对抗生成：加拿大研究员使用GAN生成中国古诗词](http://m.sohu.com/n/495406061/)
+
+其向判别器D提供来自生成器的概率分布序列和对应于真实数据分布的1-热矢量序列，强制判别器D对连续值进行运算
+
 ***
 ## 模型优化
 各类主流激活函数简介：[ReLU、LReLU、PReLU、CReLU、ELU、SELU](https://blog.csdn.net/qq_20909377/article/details/79133981)
