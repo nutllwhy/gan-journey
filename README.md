@@ -69,6 +69,7 @@ LeakGAN:
 
 对应论文：[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf)
 
+
 目前在中国诗词数据集上取得最好结果的论文：
 [自然语言对抗生成：Adversarial Generation of Natural Language](https://arxiv.org/pdf/1705.10929.pdf)
 
