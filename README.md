@@ -63,13 +63,13 @@ DCGAN降噪：[DCGANs for image super-resolution, denoising and debluring](http:
 ### NLP
 GAN在NLP方向摸索：
 [记录一次与大神们的关于GAN应用于NLP的讨论](https://www.jianshu.com/p/32e164883eab)
-
+________
 LeakGAN:
 [如何让对抗网络GAN生成更高质量的文本？LeakGAN现身说法：“对抗中，你可能需要一个间谍！”](https://www.leiphone.com/news/201709/QRJPQr3jCOtY7ncQ.html)
 
 对应论文：[Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/pdf/1709.08624.pdf)
 
-
+________
 目前在中国诗词数据集上取得最好结果的论文：
 [自然语言对抗生成：Adversarial Generation of Natural Language](https://arxiv.org/pdf/1705.10929.pdf)
 
